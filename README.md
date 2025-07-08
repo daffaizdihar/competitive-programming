@@ -1,2 +1,2 @@
 # codeforces
-me trying to solve codeforces problems
+me doing cp
